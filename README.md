@@ -1,6 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/fmem5k7Z)
 Name 1: [Burak Topcu] \
-Name 2: [Omer Faruk Ozdemir] (if necessary)
+Name 2: [Omer Faruk Ozdemir] 
 
 ## Submission
 You only need to push your code to the github repo. No further action 
